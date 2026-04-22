@@ -180,7 +180,7 @@ export function Home() {
         >
           <p className="text-xl sm:text-2xl text-muted-foreground leading-relaxed">
             "时光荏苒，唯有你我相伴。<br />
-            每一个平凡的日子，因为有你，都变得不平凡。"
+            每一个平凡的日子，因为有你，都变得不平凡。最爱的小希希"
           </p>
         </motion.div>
       </div>
