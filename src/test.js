@@ -1,0 +1,1 @@
+document.getElementById('root').innerHTML = '<h1 style="color: red; font-size: 24px;">纯 HTML 测试 - 如果你能看到这个，说明 HTML 正在工作！</h1>'
